@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am Cynric and I am a bioinformatics student
+👋 Hello! 
+I'm Cynric Joshua Muller, a bioinformatics graduate student with a background in biotechnology and a growing focus on computational biology. 
+I'm passionate about working with genomic and multi-omics data, building reproducible analysis pipelines, and applying data science and machine learning to real-world problems in biotech and healthcare. On this GitHub, you'll find projects involving RNA-Seq analysis, microbiome workflows, statistical modeling in R, and scripting in Python and Bash. 
+I'm currently exploring opportunities to apply these skills in industry and contribute to impactful, data-driven biological research.
+
 
 
 # 💻 Tech Stack:
