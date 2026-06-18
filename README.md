@@ -17,7 +17,7 @@
 > Description
  
 Name        : Cynric Joshua Muller
-Role        : MS Bioinformatics Student → Aspiring Computational Genomicist
+Role        : MS Bioinformatics Student → Aspiring Computational Genomic Scientist
 Location    : Boston, MA (aka biotech heaven)
 Currently   : Building reproducible NGS pipelines & breaking them equally fast
 Background  : Wet lab → Dry lab → "wait, why can't I do both?"
